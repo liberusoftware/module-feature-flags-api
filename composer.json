@@ -22,7 +22,7 @@
       "source": "https://github.com/liberusoftware/module-feature-flags-api"
     }
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "autoload-dev": {
     "psr-4": {
       "Liberu\\Foundation\\FeatureFlagsApi\\Tests\\": "tests/"
